@@ -1,0 +1,23 @@
+{
+  "name": "backend-config-basic",
+  "version": "1.0.0",
+  "description": "# Requeriments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronald-dev86/backend-config-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronald-dev86/backend-config-basic/issues"
+  },
+  "homepage": "https://github.com/ronald-dev86/backend-config-basic#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
+}
